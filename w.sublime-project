@@ -1,0 +1,44 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+		},
+		{
+			"path": "C:\\projects\\E\\dart-cryptography",
+		},
+		{
+			"path": "C:\\Users\\winston\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\http-0.13.4",
+		},
+		{
+			"path": "C:\\Users\\winston\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\crypto-3.0.2",
+		},
+		{
+			"path": "C:\\tools\\dart-sdk\\lib\\convert",
+		},
+		{
+			"path": "C:\\projects\\E\\pc-dart",
+		},
+		{
+			"path": "C:\\projects\\E\\arweave-dart",
+		},
+		{
+			"path": "C:\\tools\\dart-sdk\\lib\\core",
+		},
+		{
+			"path": "C:\\tools\\dart-sdk\\lib\\typed_data",
+		},
+		{
+			"path": "C:\\Users\\winston\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\args-2.3.1",
+		},
+		{
+			"path": "C:\\tools\\dart-sdk\\lib\\io",
+		},
+		{
+			"path": "C:\\tools\\dart-sdk\\lib\\async",
+		},
+		{
+			"path": "C:\\tools\\dart-sdk\\lib\\collection"
+		},
+	],
+}
